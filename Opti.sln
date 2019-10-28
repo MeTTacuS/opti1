@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opti", "Opti\Opti.csproj", "{F8DFE551-3B0A-4C5B-8D00-EB5C9E99037E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opti1", "Opti\Opti1.csproj", "{F8DFE551-3B0A-4C5B-8D00-EB5C9E99037E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
